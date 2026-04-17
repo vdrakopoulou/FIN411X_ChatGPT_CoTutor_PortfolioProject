@@ -12,6 +12,7 @@ This repository contains the replication materials for the research article **â€
 
 **GitHub repository:** <https://github.com/vdrakopoulou/FIN411X_ChatGPT_CoTutor_PortfolioProject>  
 **Replication package (Zenodo):** <https://doi.org/10.5281/zenodo.18799045>
+**Pre-Print:** https://www.researchsquare.com/article/rs-8988029/v1 
 
 ## Manuscript information
 
